@@ -1,8 +1,6 @@
-# DANSM
+# [ICLR 2025 spotlight]: [Easing Training Process of Rectified Flow Models Via Lengthening Inter-Path Distance](https://openreview.net/forum?id=RaR3ETzyKp "ICLR 2025")
 
 **DANSM: Distance-Aware Noise-Sample Matching**
-
-[ICLR 2025 spotlight]: [Easing Training Process of Rectified Flow Models Via Lengthening Inter-Path Distance](https://openreview.net/forum?id=RaR3ETzyKp "ICLR 2025")
 
 This paper aims to improve the training efficiency and reduce the computational cost of 
 [Rectified Flow Models (RFM)](https://github.com/ermongroup/ddim), which are employed in 
